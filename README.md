@@ -14,7 +14,8 @@ Five Heuristic functions with variable weights were used to evaluate moves:
 ## Usage
 
 ```
-python GameManager.py
+python3 GameManager.py
 ```
 
-## Results
+## Performance
+The AI achieved the 2048 tile in all the 10 test runs and even the 4096 tile in a few runs.
