@@ -1,6 +1,6 @@
 # 2048-puzzle-AI
 
-Implemented an iterative deepening Minmax algorithm with apha-beta pruning. The Player AI is allowed 0.2 seconds to come up with each move.
+Implemented an iterative deepening Minmax algorithm with alpha-beta pruning. The Player AI is allowed 0.2 seconds to come up with each move.
 
 Five Heuristic functions with variable weights were used to evaluate moves:
 
